@@ -1,0 +1,4 @@
+pytest>=7.0
+# Optional: only needed if you want to use the LLM backend.
+# Uncomment the line below and set ANTHROPIC_API_KEY in your environment.
+# anthropic>=0.34

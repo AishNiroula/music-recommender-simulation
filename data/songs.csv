@@ -1,0 +1,41 @@
+id,title,artist,genre,mood,energy,tempo,valence,year,language
+s001,Lo-Fi Sunrise,Kanazawa,lo-fi,calm,0.25,72,0.55,2021,instrumental
+s002,Midnight Library,Bloom Atlas,ambient,calm,0.20,65,0.40,2022,instrumental
+s003,Coffee Shop Jazz,The Marlow Trio,jazz,calm,0.30,90,0.65,2019,instrumental
+s004,Rainy Window,Sora Lin,lo-fi,melancholy,0.20,68,0.30,2020,instrumental
+s005,Deep Focus 1,Echohaus,ambient,focused,0.15,60,0.50,2023,instrumental
+s006,Late Night Hours,Maren Vex,lo-fi,calm,0.25,70,0.45,2021,instrumental
+s007,Velvet Hour,Juno West,jazz,romantic,0.40,95,0.70,2018,english
+s008,Paper Planes,Wren Holloway,indie,happy,0.55,118,0.75,2017,english
+s009,Glass Garden,Iris Park,indie,calm,0.45,100,0.60,2022,english
+s010,Skyline Drive,The Coastals,indie,happy,0.65,120,0.80,2019,english
+s011,Festival Lights,Nova Reign,pop,happy,0.85,128,0.90,2023,english
+s012,Summer Heat,Cassia Grove,pop,happy,0.80,124,0.88,2022,english
+s013,Heartbeat City,Mira Soto,pop,romantic,0.70,116,0.78,2021,english
+s014,Run It Up,Diego Cole,hip-hop,energetic,0.90,140,0.65,2023,english
+s015,Late Bloom,Amari King,hip-hop,chill,0.55,88,0.55,2022,english
+s016,Subway Stories,Rio Banks,hip-hop,melancholy,0.50,85,0.30,2020,english
+s017,Neon Run,Blackwave,electronic,energetic,0.95,130,0.70,2023,instrumental
+s018,Pulse Drift,Kiyomi,electronic,focused,0.70,125,0.55,2024,instrumental
+s019,Slow Synth,Astra Nine,electronic,calm,0.40,95,0.50,2021,instrumental
+s020,Stadium Lights,Crash Order,rock,energetic,0.90,140,0.75,2018,english
+s021,Garage Sun,The Patios,rock,happy,0.75,128,0.80,2019,english
+s022,Old Wound,Ash Calloway,rock,melancholy,0.60,100,0.30,2017,english
+s023,Open Highway,Fern Valley,country,happy,0.65,110,0.78,2022,english
+s024,Porch Light,Hollis Greene,country,calm,0.40,88,0.65,2020,english
+s025,Whiskey Night,Cale Donovan,country,melancholy,0.50,95,0.35,2018,english
+s026,Sunset Rave,Zenith,electronic,energetic,0.92,132,0.85,2024,instrumental
+s027,Forest Walk,Pine & Pearl,folk,calm,0.30,85,0.60,2021,english
+s028,Last Letter,Wynn Halverson,folk,melancholy,0.35,75,0.25,2019,english
+s029,Slow Dance,Etta Vale,r&b,romantic,0.45,92,0.72,2022,english
+s030,Velvet Skies,Jules Marin,r&b,romantic,0.50,95,0.75,2023,english
+s031,Heartline,Sage Olivier,r&b,melancholy,0.40,88,0.30,2021,english
+s032,Hallway Echo,The Kintsugi,indie,melancholy,0.35,80,0.25,2020,english
+s033,Morning Run,Pace Tempo,electronic,energetic,0.88,150,0.78,2023,instrumental
+s034,Highway 6,Old North,country,energetic,0.75,125,0.72,2021,english
+s035,Quiet Storm,Lior Bey,jazz,melancholy,0.30,80,0.30,2018,instrumental
+s036,Cloud Nine,Petal Choir,pop,happy,0.78,122,0.92,2024,english
+s037,Concrete Dreams,Yves North,hip-hop,energetic,0.85,135,0.60,2024,english
+s038,Sleepwave,Halcyon Reef,ambient,calm,0.10,55,0.50,2022,instrumental
+s039,Study Hall,Daniel Frey,classical,focused,0.20,72,0.55,2020,instrumental
+s040,String Quartet No.4,Verona Ensemble,classical,calm,0.25,80,0.45,2019,instrumental
